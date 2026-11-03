@@ -2,7 +2,11 @@
 
 Reorderable list and grid for React Native. Long-press a row to lift it, drag it while the others slide out of the way, drop it. The list scrolls by itself near the edges, haptics mark pick-up and drop, screen-reader users get "Move up" and "Move down" actions, and a history hook gives you undo, redo, and a time-machine view. Dragging runs on the UI thread with Reanimated and Gesture Handler.
 
-https://github.com/user-attachments/assets/REPLACE-WITH-UPLOADED-DEMO
+
+
+https://github.com/user-attachments/assets/cc87cb6b-b5b3-4fc7-9f25-45905cd475f3
+
+
 
 _Demo recorded on the iOS Simulator from the example app: [docs/demo.mp4](docs/demo.mp4)._
 
